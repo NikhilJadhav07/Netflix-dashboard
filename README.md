@@ -23,7 +23,7 @@ This dashboard analyzes **8,807 titles** from Netflix's public catalog (movies +
 
 ## 🖼️ Dashboard Preview
 
-![Netflix Dashboard Preview](screenshots/dashboard_overview.png)
+![Netflix Dashboard Preview](dashboard_overview.png)
 
 The report opens on a single canvas with:
 
